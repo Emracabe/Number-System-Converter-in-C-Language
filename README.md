@@ -14,4 +14,8 @@ A C program which converts the following number systems:
 
 ### How to Run the Project
 1. *Download* the zip file or *clone* the repository.
-2. Open the main.c in your selected IDE like CodeBlocks or Dev C++.
+      ```
+           git clone 
+      ```
+      - If you download the zip file, extract it after.
+3. Open the __main.c__ in your selected IDE like CodeBlocks or Dev C++.
