@@ -20,4 +20,5 @@ A C program which converts the following number systems:
       ```
       
       - If you download the zip file, extract it after.
-3. Open the __main.c__ in your selected IDE like CodeBlocks or Dev C++.
+2. Open the __main.c__ in your selected IDE like CodeBlocks or Dev C++.
+3. Run the project.
