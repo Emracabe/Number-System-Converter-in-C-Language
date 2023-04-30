@@ -16,7 +16,7 @@ A C program which converts the following number systems:
 1. *Download* the zip file or by *cloning* the repository.
 
       ```
-           git clone https://github.com/emmarcaber/Number-System-Converter-in-C-Language.git
+      git clone https://github.com/emmarcaber/Number-System-Converter-in-C-Language.git
       ```
       
       - If you download the zip file, extract it after.
